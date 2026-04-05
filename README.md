@@ -2,8 +2,8 @@
 
 ## Programs
 
-Terminal = kitty
-Browser = brave
-Top-bar = hyprpanel
-shell = fish
-code editor = zed
+- Terminal = kitty
+- Browser = brave
+- Top-bar = hyprpanel
+- Shell = fish
+- Code editor = zed
