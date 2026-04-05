@@ -1,0 +1,10 @@
+/* Färgpalett extraherad från din bild */
+* {
+    background:     #0F0913FF; /* Den djupa mörklila basen */
+    background-alt: #1A1121FF; /* Något ljusare för rader */
+    foreground:     #F2EBF7FF; /* Den nästan vita texten */
+    selected:       #BB9AF7FF; /* Den klara lila färgen från din klocka */
+    active:         #9ece6aFF; /* Grön accent för aktiva val */
+    urgent:         #f7768eFF; /* Röd accent för varningar */
+    border:         #BB9AF7FF; /* Lila ram som matchar klockan */
+}
